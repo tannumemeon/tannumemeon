@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @tannumemeon
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Untitled (72 x 18 in)](https://github.com/developedbyjk/developedbyjk/assets/71823598/07ca474b-bd5f-410e-87b3-d2cf57f0385c)
 
-<!---
-tannumemeon/tannumemeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+## 👩‍💻 TANNU MEMON
+**`Frontend Developer`**
